@@ -1,9 +1,0 @@
-id,petid,quantity,shipdate,status,complete
-100,example,1,"""shipDate"": ""2023-05-12T00:08:14.284Z"",",placed,TRUE
-200,example1,2,"""shipDate"": ""2023-08-17T00:08:14.284Z"",",placed,TRUE
-300,examplea,1,"""shipDate"": ""2023-08-12T00:08:14.284Z"",",placed,TRUE
-400,example2,2,"""shipDate"": ""2023-06-12T00:08:14.284Z"",",placed,TRUE
-500,exampleb,3,"""shipDate"": ""2023-08-12T00:08:14.284Z"",",placed,TRUE
-600,example3,1,"""shipDate"": ""2023-08-22T00:08:14.284Z"",",placed,TRUE
-700,examplec,1,"""shipDate"": ""2023-07-12T00:08:14.284Z"",",placed,TRUE
-800,example4,1,"""shipDate"": ""2023-08-13T00:08:14.284Z"",",placed,TRUE
